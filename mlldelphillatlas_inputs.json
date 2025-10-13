@@ -3,7 +3,7 @@
   "x_axis_title": "$\\Delta\\phi(\\ell, \\bar{\\ell}) $",
   "type": "2D",
   "y_lims": [-0.0002, 0.0035],
-  "ratio_y_lims": [0.8, 1.2],
+  "ratio_y_lims": [0.75, 1.2],
   "legend_pos": "upper right",
   "ratio_legend_pos": "lower left",
   "experiment": "ATLAS",
