@@ -4,6 +4,7 @@
   "y_lims": [-0.0005, 0.5],
   "ratio_y_lims": [0.85, 1.15],
   "legend_pos": "upper right",
+  "fine_legend_pos": [1.03, 1.00],
   "ratio_legend_pos": "upper center",
   "experiment": "CMS" ,
   "fit_limits": [-10, 10],

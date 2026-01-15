@@ -1,9 +1,10 @@
 {
-  "observable_name_tex": "$\\frac{1}{\\sigma} \\frac{d\\sigma}{d(\\mathrm{m}_{\\ell \\bar{\\ell}})}$",
-  "x_axis_title": "$\\mathrm{m}_{\\ell \\bar{\\ell}}$",
+  "observable_name_tex": "$\\frac{1}{\\sigma} \\frac{ \\mathrm{d} \\sigma}{ \\mathrm{d} (\\mathrm{m}_{\\ell \\ell})}$",
+  "x_axis_title": "$\\mathrm{m}_{\\ell \\ell}$",
   "y_lims": [-0.0005, 0.008],
-  "ratio_y_lims": [0.9, 1.1],
+  "ratio_y_lims": [0.78, 1.28],
   "legend_pos": "upper right",
+  "fine_legend_pos": [1.03, 1.00],
   "ratio_legend_pos": "upper center",
   "experiment": "ATLAS",
   "fit_limits": [-10, 10],
